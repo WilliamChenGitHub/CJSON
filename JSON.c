@@ -7,7 +7,6 @@ Date: 2022/10/12
 #include "stdlib.h"
 #include "stdio.h"
 #include "string.h"
-#include "hal.h"
 
 
 #define JSON_MemMalloc malloc
